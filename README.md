@@ -10,13 +10,13 @@ Hello! I'm **Temitope** 👋, a business & data analyst focused on bridging the 
 
 *I work at the intersection of business strategy, operations, and data analytics.*
 
-** ✅ Business & Decision Analysis**  
+**✅ Business & Decision Analysis**  
 I analyze business processes, performance data, and operational workflows to identify inefficiencies, risks, and growth opportunities that matter to decision-makers.
 
-** ✅ Data-Driven Strategy & Insights**  
+**✅ Data-Driven Strategy & Insights**  
 I apply analytical techniques to real-world datasets to support capital allocation, inventory optimization, and operational planning.
 
-** ✅ Insight Communication**  
+**✅ Insight Communication**  
 I translate technical analysis into structured insights, executive-ready narratives, and recommendations that drive clarity and action.
 
 ---
