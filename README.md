@@ -1,7 +1,7 @@
 <!-- Section 1: Introduce yourself -->
 ## ABOUT ME
 
-Hello! I'm **Temitope** 👋, a business & data analyst focused on bridging the gap between business needs and operational solutions. I examine organizational processes, systems, and data to uncover problems, opportunities, and requirements that shape performance and decision-making. My strength lies in translating complex analytical findings into clear, actionable recommendations that support leaders in making informed, high-impact decisions.
+Hello! I'm **Temitope** 👋, a business & data analyst focused on bridging the gap between business needs and operational solutions. I examine organizational processes, systems, and data to uncover problems, opportunities, and requirements that shape performance and decision-making. My strength lies in translating complex analytical findings into clear, actionable recommendations that support leaders to make informed, high-impact decisions.
 
 ---
 
@@ -10,13 +10,13 @@ Hello! I'm **Temitope** 👋, a business & data analyst focused on bridging the 
 
 *I work at the intersection of business strategy, operations, and data analytics.*
 
-**- ✅ Business & Decision Analysis**  
+** ✅ Business & Decision Analysis**  
 I analyze business processes, performance data, and operational workflows to identify inefficiencies, risks, and growth opportunities that matter to decision-makers.
 
-**- ✅ Data-Driven Strategy & Insights**  
+** ✅ Data-Driven Strategy & Insights**  
 I apply analytical techniques to real-world datasets to support capital allocation, inventory optimization, and operational planning.
 
-**- ✅ Insight Communication**  
+** ✅ Insight Communication**  
 I translate technical analysis into structured insights, executive-ready narratives, and recommendations that drive clarity and action.
 
 ---
@@ -24,7 +24,7 @@ I translate technical analysis into structured insights, executive-ready narrati
 <!-- Section 3: Portfolio projects -->
 ## MY PORTFOLIO
 
-*A selection of analytical projects demonstrating my approach to problem-solving and decision support.*
+*A selection of analytical projects I've worked on.*
 
 ---
 
@@ -53,4 +53,4 @@ This project applies store-level sales time series analysis to identify demand c
 
 - 📧 **Email:** [temitopealo4@gmail.com](mailto:temitopealo4@gmail.com)  
 - 🌐 **Medium:** [medium.com/@temitopealo4](https://medium.com/@temitopealo4)  
-- 💼 **Open to:** Analyst roles, consulting engagements, and collaborative projects
+- 💼 **Open to:** Business / Data Analyst roles and collaborative projects
