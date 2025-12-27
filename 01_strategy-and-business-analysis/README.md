@@ -1,0 +1,1 @@
+This folder focuses on structuring complex organizational problems into clear, decision-ready analyses. It includes strategic assessments, business cases, value frameworks, and problem definitions that connect objectives to actionable choices.
