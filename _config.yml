@@ -1,5 +1,4 @@
 title: Temitope Alo
 
 # Theme
-theme: minimal
-remote_theme: pages-themes/minimal@latest
+theme: jekyll-theme-minimal
