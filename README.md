@@ -49,7 +49,7 @@ This project applies store-level sales time series analysis to identify demand c
 <!-- Section 4: Contact -->
 ## CONTACT
 
-*Let’s connect and explore how data can drive better decisions.*
+*Let’s connect and explore together.*
 
 - 📧 **Email:** [temitopealo4@gmail.com](mailto:temitopealo4@gmail.com)  
 - 🌐 **Medium:** [medium.com/@temitopealo4](https://medium.com/@temitopealo4)  
