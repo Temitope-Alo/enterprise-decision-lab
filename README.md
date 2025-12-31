@@ -46,6 +46,14 @@ This project applies store-level sales time series analysis to identify demand c
 
 ---
 
+### **Caravan Insurance Buyer Analysis (COIL 2000)**
+![image]()
+
+Analyzed the UCI COIL 2000 dataset to predict who is likely to purchase caravan insurance and understand the key drivers. Applied logistic regression, Lasso, and decision trees to identify high-probability buyers based on car ownership, lifestyle segments, household stability, and financial readiness. Insights highlight behavioral and socio-economic factors influencing insurance decisions, enabling targeted marketing and improved ROI.
+[Read More](https://medium.com/@temitopealo4/caravan-insurance-buyer-analysis-coil-2000-78efa1f66bc1)
+
+---
+
 <!-- Section 4: Contact -->
 ## CONTACT
 
