@@ -38,13 +38,13 @@ By analyzing transaction-level retail data across Electronics, Clothing, and Bea
 ---
 
 ### **Inventory & Supply Chain Management: A Data-Driven Assessment Using Store Sales Time Series Data**
-![image](03_analytics-and-insight/Inventory & Supply Chain Management Project/Picture3.png)
+![image](Picture3.png)
 
 This project applies store-level sales time series analysis to identify demand concentration, volatility, and seasonal effects. The insights support smarter inventory prioritization, improved replenishment decisions, and more resilient supply chain planning.
 
 [Read More](https://medium.com/@temitopealo4/inventory-supply-chain-management-a-data-driven-assessment-using-store-sales-time-series-data-77c0bb9899df)
 
-<a href="03_analytics-and-insight/Inventory & Supply Chain Management Project/Documentation_Inventory Mgmt.pdf">Download the Report here (pdf file)</a>
+<a href="03_analytics-and-insight/Inventory & Supply Chain Management Project/Documentation_Inventory Mgmt.pdf">Download the full report here (PDF)</a>
 
 ---
 
