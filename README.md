@@ -64,6 +64,6 @@ By analyzing transaction-level retail data across Electronics, Clothing, and Bea
 
 - 📧 **Email:** [temitopealo4@gmail.com](mailto:temitopealo4@gmail.com)  
 - 🌐 **Medium:** [medium.com/@temitopealo4](https://medium.com/@temitopealo4)  
-- 🧾 **View Curriculum Vitae:** <a href="0Temitope Emmanuel Alo.pdf">View Curriculum Vitae</a>
+- 🧾 **View Curriculum Vitae:** <a href="0Temitope Emmanuel Alo.pdf">Temitope Emmanuel Alo</a>
 - 💼 **Open to:** Business / Data Analyst roles and collaborative projects
 
