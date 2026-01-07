@@ -34,6 +34,7 @@ I translate technical analysis into structured insights, executive-ready narrati
 This project applies store-level sales time series analysis to identify demand concentration, volatility, and seasonal effects. The insights support smarter inventory prioritization, improved replenishment decisions, and more resilient supply chain planning.
 
 [Read More](https://medium.com/@temitopealo4/inventory-supply-chain-management-a-data-driven-assessment-using-store-sales-time-series-data-77c0bb9899df)
+
 <a href="03_analytics-and-insight/Inventory & Supply Chain Management Project/Documentation_Inventory Mgmt.pdf">Download the full report here (PDF)</a>
 
 ---
@@ -43,6 +44,7 @@ This project applies store-level sales time series analysis to identify demand c
 
 Analyzed the UCI COIL 2000 dataset to predict who is likely to purchase caravan insurance and understand the key drivers. Applied logistic regression, Lasso, and decision trees to identify high-probability buyers based on car ownership, lifestyle segments, household stability, and financial readiness. Insights highlight behavioral and socio-economic factors influencing insurance decisions, enabling targeted marketing and improved ROI.
 [Read More](https://medium.com/@temitopealo4/caravan-insurance-buyer-analysis-coil-2000-78efa1f66bc1)
+
 <a href="03_analytics-and-insight/Caravan Insurance Buyer Analysis/Documentation_Caravan Insurance Buyer Analysis.pdf">Download the full report here (PDF)</a>
 
 ---
