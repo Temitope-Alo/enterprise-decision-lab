@@ -28,22 +28,12 @@ I translate technical analysis into structured insights, executive-ready narrati
 
 ---
 
-### **Portfolio Strategy Case: Capital Allocation Using Transaction-Level Retail Data**
-![image](portfolio1.jpg)
-
-By analyzing transaction-level retail data across Electronics, Clothing, and Beauty categories, this project shows how targeted capital allocation can improve portfolio performance while maintaining overall revenue stability. The analysis focuses on revenue contribution, volume intensity, and efficiency to inform strategic reallocation decisions.
-
-[Read More](https://medium.com/@temitopealo4/portfolio-strategy-case-capital-allocation-using-transaction-level-retail-data-8059a3671b04)
-
----
-
 ### **Inventory & Supply Chain Management: A Data-Driven Assessment Using Store Sales Time Series Data**
 ![image](Picture3.png)
 
 This project applies store-level sales time series analysis to identify demand concentration, volatility, and seasonal effects. The insights support smarter inventory prioritization, improved replenishment decisions, and more resilient supply chain planning.
 
 [Read More](https://medium.com/@temitopealo4/inventory-supply-chain-management-a-data-driven-assessment-using-store-sales-time-series-data-77c0bb9899df)
-
 <a href="03_analytics-and-insight/Inventory & Supply Chain Management Project/Documentation_Inventory Mgmt.pdf">Download the full report here (PDF)</a>
 
 ---
@@ -53,9 +43,18 @@ This project applies store-level sales time series analysis to identify demand c
 
 Analyzed the UCI COIL 2000 dataset to predict who is likely to purchase caravan insurance and understand the key drivers. Applied logistic regression, Lasso, and decision trees to identify high-probability buyers based on car ownership, lifestyle segments, household stability, and financial readiness. Insights highlight behavioral and socio-economic factors influencing insurance decisions, enabling targeted marketing and improved ROI.
 [Read More](https://medium.com/@temitopealo4/caravan-insurance-buyer-analysis-coil-2000-78efa1f66bc1)
+<a href="03_analytics-and-insight/Caravan Insurance Buyer Analysis/Documentation_Caravan Insurance Buyer Analysis.pdf">Download the full report here (PDF)</a>
 
 ---
 
+### **Portfolio Strategy Case: Capital Allocation Using Transaction-Level Retail Data**
+![image](portfolio1.jpg)
+
+By analyzing transaction-level retail data across Electronics, Clothing, and Beauty categories, this project shows how targeted capital allocation can improve portfolio performance while maintaining overall revenue stability. The analysis focuses on revenue contribution, volume intensity, and efficiency to inform strategic reallocation decisions.
+
+[Read More](https://medium.com/@temitopealo4/portfolio-strategy-case-capital-allocation-using-transaction-level-retail-data-8059a3671b04)
+
+---
 <!-- Section 4: Contact -->
 ## CONTACT
 
