@@ -28,6 +28,17 @@ I translate technical analysis into structured insights, executive-ready narrati
 
 ---
 
+### **Peeking Inside the Minds of Online Shoppers**
+![image](clickstream_Dashboard.png)
+
+This project applies clickstream analysis to identify patterns of user engagement, browsing depth, and product category interaction. The insights support more effective content prioritization, targeted marketing strategies, and enhanced user experience design.
+
+[Read More](https://medium.com/@temitopealo4/peeking-inside-the-minds-of-online-shoppers-db19ed12e7af)
+
+<a href="03_analytics-and-insight/Customer Behavior & Engagement Analysis/Documentation_Customer Behavior & Engagement Analysis.pdf">Download the full report here (PDF)</a>
+
+---
+
 ### **Inventory & Supply Chain Management: A Data-Driven Assessment Using Store Sales Time Series Data**
 ![image](Picture3.png)
 
