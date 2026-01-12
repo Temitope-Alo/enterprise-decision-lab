@@ -28,6 +28,17 @@ I translate technical analysis into structured insights, executive-ready narrati
 
 ---
 
+### **Building a Data-Driven Credit Strategy**
+![image](c4.jpeg)
+
+This project applies predictive credit scoring and portfolio segmentation to estimate borrower default risk, align product offerings, and calibrate pricing strategies. The insights support more effective risk management, targeted product allocation, and data-driven decision-making for optimized portfolio performance.
+
+[Read More](https://medium.com/@temitopealo4/building-a-data-driven-credit-strategy-2d5068f54ac5)
+
+<a href="03_analytics-and-insight/Integrated Credit Customer Strategy/Integrated Credit Customer Strategy.pdf">Download the full report here (PDF)</a>
+
+---
+
 ### **Peeking Inside the Minds of Online Shoppers**
 ![image](clickstream_Dashboard.png)
 
